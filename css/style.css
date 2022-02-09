@@ -1,0 +1,43 @@
+body {
+    background-color: aquamarine;
+}
+
+header {
+    background-color: crimson;
+}
+
+.first-paragraf {
+    background-color: darkblue;
+}
+
+h2 {
+    background-color: darkorange;
+}
+
+p {
+    background-color: darkgreen;
+}
+
+ol {
+    background-color: chartreuse;
+}
+
+.item-1 {
+    color: brown;
+}
+
+.item-2 {
+    color: darkcyan;
+}
+
+.item-3 {
+    color: deepskyblue;
+}
+
+.item-4 {
+    color: yellow;
+}
+
+.item-5 {
+    color: darkmagenta;
+}
